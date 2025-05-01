@@ -111,3 +111,30 @@ footer {
     }
     
 }
+
+.description {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background-color: #fdfdfd;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+  }
+  
+  .description h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+  
+  .description ul {
+    padding-left: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .description li {
+    margin-bottom: 0.5rem;
+  }
+  
